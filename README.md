@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/profleandrocoelho/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](leandrorafaelferreira@outlook.com.br)
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-LeandroCoelho&show_icons=true&theme=dracula&count_private=true)
+![Leandro Coelho GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-LeandroCoelho&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia 💻
 
