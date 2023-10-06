@@ -3,7 +3,7 @@
 <!--[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)-->
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrorafaelferreira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/profleandrocoelho/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](leandrorafaelferreira@outlook.com.br)
+<!--[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](leandrorafaelferreira@outlook.com.br)-->
 
 ![Leandro Coelho GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-LeandroCoelho&show_icons=true&theme=dracula)
 
@@ -19,12 +19,16 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div><br>
+</div><br/>
 <div style="display: inline_block">
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img align="center" alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div><br>
+</div><br/>
+
+### Contato Pessoal
+
+- [Email de contato](leandrorafaelferreira@outlook.com.br)><br/>
 
 🎓 Graduado em Ciência da Computação pela UNIFG <br/>
 🏆 Certificado em Scrum Foundation Professional (SFPC) e Kanban Foundation (KIKF) pela Certprof <br/>
