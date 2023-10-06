@@ -28,8 +28,7 @@
 
 ### Contato Pessoal
 
-- [Email de contato](leandrorafaelferreira@outlook.com.br)><br/>
-
-🎓 Graduado em Ciência da Computação pela UNIFG <br/>
-🏆 Certificado em Scrum Foundation Professional (SFPC) e Kanban Foundation (KIKF) pela Certprof <br/>
-🚀 Gestão de Indicadores: Atualização e análise de relatórios de indicadores de desempenho, fornecendo insights críticos para tomada de decisões estratégicas.
+- Email de contato: leandrorafaelferreira@outlook.com.br><br/>
+- 🎓 Graduado em Ciência da Computação pela UNIFG <br/>
+- 🏆 Certificado em Scrum Foundation Professional (SFPC) e Kanban Foundation (KIKF) pela Certprof <br/>
+- 🚀 Gestão de Indicadores: Atualização e análise de relatórios de indicadores de desempenho, fornecendo insights críticos para tomada de decisões estratégicas.
